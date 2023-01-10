@@ -1,0 +1,1141 @@
+    .page-loader.dark img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .home-section {
+        background-image: url(../images/Homepage_Background_.jpg);
+        background-attachment: unset;
+        background-size: 100% 100%;
+    }
+    
+    .content-1 {
+        background-image: url(../images/home2.jpg);
+        background-attachment: unset;
+    }
+    
+    .gaming {
+        background-image: url(../images/Aboutusbackground.jpg);
+        background-attachment: unset;
+        background-size: cover;
+        padding: 55px 0px !important;
+    }
+    
+    .content-2 {
+        background-image: url(../images/CounterSection.jpg);
+        background-attachment: unset;
+    }
+    
+    .content-3 {
+        background-image: url(../images/herewhy.jpg);
+        background-attachment: unset;
+    }
+    
+    .content-4 {
+        padding: 30px 0px !important;
+        background-image: url(../images/content-4.jpg);
+        background-attachment: unset;
+    }
+    
+    .content-5 {
+        padding: 100px 0px !important;
+        background-image: url(../images/testimonials_Background.jpg);
+        background-attachment: unset;
+    }
+    
+    .faqinner {
+        background-image: url(../images/Faq_Inner.png);
+    }
+    
+    .howtoplay {
+        padding: 100px 0px !important;
+        background-size: 100% 100%;
+        background-image: url(../images/Howtoplay_innerbanner.jpg);
+        background-attachment: unset;
+    }
+    
+    .terms {
+        padding: 90px 0px !important;
+        background-size: 100% 100%;
+        background-image: url(../images/terms.jpg);
+        background-attachment: unset;
+    }
+    
+    .privacy-home {
+        padding: 90px 0px !important;
+        background-size: 100% 100%;
+        background-image: url(../images/terms.jpg);
+        background-attachment: unset;
+    }
+    
+    .about-home {
+        padding: 100px 0px !important;
+        background-size: 100% 100%;
+        background-image: url(../images/AboutUs_banner.jpg);
+        background-attachment: unset;
+    }
+    
+    .refund-home {
+        padding: 90px 0px !important;
+        background-size: 100% 100%;
+        background-image: url(../images/Refund_Banner.jpg);
+        background-attachment: unset;
+    }
+    
+    .contactbg {
+        background-image: url(../images/Contack_Background.jpg);
+        background-attachment: unset;
+    }
+    
+    .varbg {
+        background-image: url(../images/Variant_background.jpg);
+        background-attachment: unset;
+    }
+    
+    .faqbg {
+        background-image: url(../images/Faq_background.jpg);
+        background-attachment: unset;
+    }
+    
+    .footbg {
+        background-image: url(../images/Footer.jpg);
+        background-attachment: unset;
+        background-size: 100% 100%;
+    }
+    
+    .mission-vission {
+        background-image: url(../images/mission&Vision_Background.jpg);
+        background-attachment: unset;
+        background-size: 100% 100%;
+    }
+    
+    .content-6 {
+        background-color: #0f051e;
+    }
+    
+    .main-nav {
+        background: rgb(81, 21, 131) !important;
+        background: linear-gradient(0deg, rgba(81, 21, 131, 1) 24%, rgba(198, 81, 209, 1) 97%) !important;
+    }
+    
+    .btn-mod-1 {
+        background: rgb(67, 1, 3);
+        background: linear-gradient(0deg, rgba(67, 1, 3, 1) 25%, rgba(210, 2, 92, 1) 100%) !important;
+        background-attachment: unset;
+    }
+    
+    .home-section-1 {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .home-section-2 {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    
+    .btn-mod-1.btn-w {
+        color: #fff;
+        text-align: center;
+    }
+    
+    .submit {
+        text-align: center;
+    }
+    
+    p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+    
+    .single-content h2,
+    h3 {
+        font-size: 28px;
+        margin-bottom: 15px;
+        font-weight: 600;
+        /* text-align: center; */
+    }
+    
+    .single-content h4 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 15px;
+        margin-top: 0;
+        line-height: 1.2;
+        /* text-align: center; */
+    }
+    
+    .single-content p {
+        font-size: 18px;
+        text-align: justify;
+        padding-bottom: 10px;
+    }
+    
+    .bread-menu ul {
+        list-style-type: none;
+        display: inline;
+    }
+    
+    .cards a {
+        color: blueviolet;
+    }
+    
+    .hs-lines {
+        font-size: 20px !important;
+        margin-bottom: 80px;
+    }
+    
+    .dr {
+        position: absolute;
+        bottom: 16px;
+        right: 16px;
+        width: 100px;
+    }
+    
+    .modal-content {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        pointer-events: auto;
+        background: rgb(198, 81, 209);
+        background: linear-gradient(0deg, rgba(198, 81, 209, 1) 25%, rgba(81, 21, 131, 1) 100%);
+        background-clip: padding-box;
+        border: 1px solid rgba(0, 0, 0, .2);
+        border-radius: 0.3rem;
+        outline: 0;
+    }
+    
+    .resume-section .resume-item {
+        /* background-color: #232323; */
+        /* border-left: 2px solid #ff651c; */
+        padding: 32px 48px;
+        position: relative;
+        border-radius: 10px;
+        margin-bottom: 30px;
+    }
+    
+    .resume-section .resume-item.resume-item-box-one {
+        padding: 32px 48px;
+        position: relative;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-image: url(../images/rummyvar.png);
+    }
+    
+    .resume-section .resume-item.resume-item-box-two {
+        padding: 32px 48px;
+        position: relative;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-image: url(../images/Support.png);
+    }
+    
+    .resume-section .resume-item.resume-item-box-three {
+        padding: 32px 48px;
+        position: relative;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-image: url(../images/Safe.png);
+    }
+    
+    .resume-section .resume-item.resume-item-box-four {
+        padding: 32px 48px;
+        position: relative;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-image: url(../images/Secure.png);
+    }
+    
+    .resume-section .resume-item.resume-item-box-five {
+        padding: 32px 48px;
+        position: relative;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-image: url(../images/Fair.png);
+    }
+    
+    .resume-section .resume-item.resume-item-box-six {
+        padding: 32px 48px;
+        position: relative;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-image: url(../images/Quick.png);
+    }
+    
+    .item-description {
+        margin-top: 70px;
+        text-align: center;
+    }
+    /* .resume-section .resume-item .item-arrow::before {
+        content: "";
+        display: block;
+        position: absolute;
+        height: 16px;
+        width: 16px;
+        left: 0;
+        background-color: #ff651c
+    }
+    
+    .resume-section .resume-item .item-arrow::after {
+        content: "";
+        display: block;
+        position: absolute;
+        border: 8px solid transparent;
+        left: 16px;
+        border-left-color: #ff651c
+    } */
+    /* .resume-section .resume-item .item-arrow {
+        left: 0;
+        margin-top: 2px;
+        position: absolute
+    } */
+    /*     
+    .resume-section .resume-item .item-arrow::before {
+        content: "";
+        display: block;
+        position: absolute;
+        height: 16px;
+        width: 16px;
+        left: 0;
+        background-color: #ff651c
+    } */
+    /* .resume-section .resume-item .item-arrow::after {
+        content: "";
+        display: block;
+        position: absolute;
+        border: 8px solid transparent;
+        left: 16px;
+        border-left-color: #ff651c
+    } */
+    
+    .resume-section .resume-item .item-title {
+        color: #ffffff;
+        margin-top: 8px;
+    }
+    
+    h1.common-title {
+        font-size: 55px;
+        line-height: 1.2;
+        font-weight: 700;
+        position: relative;
+        text-transform: capitalize;
+        word-spacing: 5px;
+        text-align: center;
+    }
+    
+    .contents a {
+        line-height: 150px;
+        font-size: 28px;
+    }
+    
+    .nav button {
+        margin-top: 10px;
+    }
+    
+    .table,
+    th,
+    td {
+        border: 1px solid white;
+    }
+    
+    .widget ul li {
+        margin-top: 50px;
+        display: flex;
+        gap: 10px;
+        display: inline-block;
+        font-size: 22px;
+    }
+    
+    .text-slider {
+        margin-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    .section-title {
+        font-size: 42px !important;
+    }
+    
+    .rules h2 {
+        margin-bottom: 20px !important;
+    }
+    
+    .rules dl {
+        scroll-behavior: smooth;
+    }
+    
+    .accordion>dd {
+        margin-bottom: 0.55em;
+    }
+    
+    .back p {
+        font-size: 20px;
+    }
+    /* breadcrumb */
+    
+    .breadcrumb-item+.breadcrumb-item::before {
+        float: left;
+        padding-right: 0.5rem;
+        color: #fff;
+        content: var(--bs-breadcrumb-divider, "|");
+    }
+    
+    .breadcrumb li a:hover {
+        text-decoration: none;
+        color: #fff;
+        background: linear-gradient(0deg, rgba(67, 1, 3, 1) 25%, rgba(210, 2, 92, 1) 100%) !important;
+    }
+    
+    .page-section {
+        padding: 50px 0;
+    }
+    
+    .widget .breadcrumb {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 0 0;
+        margin-bottom: 1rem;
+        list-style: none;
+    }
+    
+    .progress {
+        margin-top: 50px;
+    }
+    
+    .work-process-icon {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .work-process-description {
+        text-align: justify;
+        color: #fff !important;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    
+    .rules {
+        margin-left: 75px;
+        text-align: start;
+    }
+    
+    .newletter-label-text {
+        font-size: 28px;
+        text-align: center;
+    }
+    
+    .btn1 {
+        width: 20%;
+    }
+    
+    .gaming__row {
+        flex-direction: row-reverse !important;
+    }
+    
+    .light-content .count-bg {
+        background: transparent;
+    }
+    
+    .testimonial .rules h3 {
+        font-size: 24px;
+    }
+    /* testimonial dots  */
+    
+    .text-slider .owl-pagination {
+        bottom: -40px;
+    }
+    /* scroll */
+    
+    .height_scroll {
+        height: 225px;
+        overflow-y: scroll;
+    }
+    
+    .height_scroll dd {
+        color: #fff !important;
+    }
+    /* bottom scroll */
+    
+    .marbotscroll {
+        padding-bottom: 35px;
+    }
+    
+    .features-descr,
+    .features-descr p {
+        text-align: justify;
+        font-size: 18px;
+    }
+    
+    .text-slider .owl-wrapper-outer.autoHeight {
+        height: auto !important;
+    }
+    
+    .post-prev-text {
+        color: #fff !important;
+    }
+    
+    .alt-features-item {
+        text-align: center;
+    }
+    
+    .alt-features-icon {
+        display: inline-block;
+    }
+    
+    .about-content {
+        text-align: center;
+    }
+    
+    .align-left {
+        margin-top: 20px;
+    }
+    
+    .alt-features-icon img {
+        transition: transform .7s ease-in-out;
+    }
+    
+    .alt-features-icon img:hover {
+        transform: rotate(360deg);
+    }
+    
+    .mb-30 {
+        text-align: justify;
+    }
+    
+    .content-6 .call-action-1-decription {
+        color: #fff !important;
+        font-size: 18px;
+    }
+    
+    .single-content-head {
+        text-align: center;
+        font-size: 28px;
+    }
+    
+    .aboutmobile,
+    .howtomobile,
+    .privmobile,
+    .refndmobile {
+        display: none !important;
+    }
+    
+    .btn2 {
+        display: flex;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+    }
+    
+    btn2:hover {
+        color: #0f051e;
+    }
+    
+    .play-now {
+        justify-content: center !important;
+    }
+    
+    .inner-nav ul .nav-item {
+        color: black;
+    }
+    
+    .light-content .section-title {
+        text-align: center;
+    }
+    
+    .light-content .section-title-descr {
+        text-align: center;
+    }
+    
+    .call-action-1-heading {
+        text-align: center;
+    }
+    
+    .call-action-1-decription {
+        text-align: center;
+    }
+    
+    .work-process-title {
+        text-align: center !important;
+    }
+    
+    .ml-10 {
+        margin-left: 30px;
+    }
+    
+    .inner-nav ul li .btn-1 {
+        line-height: 12px !important;
+    }
+    
+    .headbut {
+        height: 70px !important;
+        line-height: 40px !important;
+    }
+    /* .body-scrolled .inner-nav ul li a .vg {
+        color: #fff;
+        opacity: 1;
+        line-height: 36px !important;
+    } */
+    
+    a.btn.btn-mod.btn-large.btn-round.me-md-1.btn-mod-1.headbut.vg {
+        line-height: 36px !important;
+        text-align: center;
+    }
+    
+    .adds {
+        font-size: 14px !important;
+    }
+    
+    .main-nav.dark .inner-nav ul>li>a:hover,
+    .main-nav.dark .inner-nav ul>li>a.active {
+        color: red !important;
+    }
+    
+    .email-adds,
+    .email-adds:hover {
+        text-decoration: none !important;
+        color: #fff !important;
+    }
+    
+    @media only screen and (max-width: 1328px) {
+        .inner-nav ul {
+            font-size: 13px;
+        }
+    }
+    /* responsiv  counter*/
+    
+    @media only screen and (max-width: 1024px) {
+        .item-description {
+            font-size: 16px;
+        }
+        a.btn.btn-mod.btn-large.btn-round.me-md-1.btn-mod-1.headbut.vg {
+            line-height: 36px !important;
+            text-align: center;
+            width: fit-content;
+        }
+    }
+    
+    @media (min-width: 768px) and (max-width: 1023px) {
+        .aboutmobile,
+        .howtomobile,
+        .privmobile,
+        .refndmobile {
+            display: none !important;
+        }
+        .rules {
+            margin-left: 0px;
+            text-align: start;
+            /* margin-top: 30px; */
+        }
+        .text-slider .owl-next {
+            top: 1px;
+            right: -35px;
+        }
+        .text-slider .owl-prev {
+            left: -35px;
+            top: 1px;
+        }
+        .newsletter-label-text {
+            text-align: center;
+            font-size: 24px;
+        }
+        .hs-lines {
+            font-size: 18px !important;
+            margin-bottom: 40px;
+        }
+        .gaming_reletive {
+            display: flex;
+            justify-content: center;
+        }
+        .btn1 {
+            display: flex;
+            justify-content: center;
+            margin-left: auto;
+            margin-right: auto;
+            width: fit-content !important;
+        }
+        .game-modes {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center !important;
+        }
+        .about-home {
+            padding: 50px 0px !important;
+            background-size: cover;
+        }
+        .section-title {
+            font-size: 28px !important;
+            text-align: center;
+        }
+        .content-5 {
+            padding: 20px 0px !important;
+        }
+        .privacy-home {
+            padding: 40px 0px !important;
+            background-size: cover;
+            /* background-image: url(../images/terms.jpg);
+                                background-attachment: unset; */
+        }
+        .terms {
+            padding: 40px 0 !important;
+            background-size: cover;
+        }
+        .refund-home {
+            padding: 40px 0 !important;
+            background-size: cover;
+        }
+        .page-section {
+            padding: 20px 0 !important;
+        }
+        .bread-title h2 {
+            text-align: start !important;
+            font-size: 48px;
+        }
+        blockquote p {
+            font-size: 16px;
+            text-align: center;
+        }
+        /* .text-end {
+        display: flex;
+        justify-content: center;
+    } */
+        .count-number {
+            font-size: 44px;
+        }
+        .call-action-2-text dd {
+            text-align: justify;
+        }
+        .alt-features-descr {
+            text-align: center;
+        }
+        .newletter-label-text {
+            display: flex;
+            justify-content: center !important;
+        }
+        .content-2,
+        .contactbg {
+            padding: 30px 0px !important;
+        }
+        .work-process-heading,
+        .work-process-description {
+            text-align: center;
+        }
+        .img-fluid {
+            width: 80%;
+        }
+        .offset-md-2 {
+            margin: 0 !important;
+        }
+        .single-content-head {
+            text-align: center;
+            font-size: 24px;
+        }
+        .light-content .section-title-descr {
+            text-align: center !important;
+        }
+        .mod-breadcrumbs {
+            font-size: 20px !important;
+        }
+        .item-description {
+            font-size: 18px;
+        }
+        a.btn.btn-mod.btn-large.btn-round.me-md-1.btn-mod-1.headbut.vg {
+            line-height: 36px !important;
+            text-align: center;
+            width: 20%;
+        }
+    }
+    /* for 767 start */
+    
+    @media only screen and (max-width: 767px) {
+        .privacy-home,
+        .howtoplay,
+        .refund-home,
+        .terms {
+            display: none !important;
+        }
+        .about-home {
+            display: none !important;
+        }
+        .aboutmobile {
+            display: block !important;
+            background-color: #0f051e;
+        }
+        .howtomobile,
+        .privmobile,
+        .refndmobile {
+            display: block !important;
+            background-color: #0f051e;
+        }
+        .counter-one__single {
+            flex: 0 0 100%;
+            max-width: 100%;
+            margin-bottom: 24px;
+        }
+        .counter-one__single:before {
+            display: none;
+        }
+        .counter-one__single:nth-child(4) {
+            margin-bottom: 0;
+        }
+        .text-slider .owl-prev {
+            padding: 10px;
+            left: -35px;
+            top: 35px;
+        }
+        .text-slider .owl-next {
+            padding: 10px;
+            right: -35px;
+            top: 35px;
+        }
+        .howto {
+            display: block !important;
+        }
+        .section-title {
+            font-size: 28px !important;
+            text-align: center;
+        }
+        .page-section {
+            padding: 10px 0 !important;
+        }
+        .marbotscroll {
+            padding-bottom: 0px;
+        }
+        .rules {
+            margin-top: 20px;
+            margin-left: 0px;
+            text-align: center;
+        }
+        .rul {
+            margin-top: 15px !important;
+            margin-left: 0px !important;
+            text-align: center;
+        }
+        .rul h3,
+        .rules h3 {
+            font-size: 28px !important;
+        }
+        .rul p {
+            text-align: justify;
+        }
+        .section-title-descr {
+            font-size: 18px;
+            text-align: center;
+        }
+        .pb-20 {
+            padding-bottom: 80px!important;
+        }
+        .gaming_reletive {
+            display: flex;
+            justify-content: center;
+        }
+        .btn-mod-1 {
+            display: flex;
+            margin-left: auto;
+            margin-right: auto;
+            width: 30%;
+        }
+        .hs-lines {
+            font-size: 18px;
+            margin-bottom: 40px;
+        }
+        .btn-mod {
+            margin-top: 15px;
+        }
+        .btn-large {
+            display: flex;
+            justify-content: center;
+        }
+        .newletter-label-text {
+            font-size: 24px;
+        }
+        .banner-heading {
+            font-size: 28px;
+            text-align: center;
+        }
+        .align-left {
+            text-align: center !important;
+        }
+        .alt-features-item {
+            margin-top: 10px;
+        }
+        .breadcrumb-item+.breadcrumb-item::before {
+            float: left;
+            padding-right: 0.5rem;
+            color: #fff;
+            content: none;
+        }
+        .call-action-1-heading {
+            font-size: 24px;
+        }
+        .call-action-1-decription {
+            font-size: 16px;
+            text-align: justify;
+        }
+        .mobtop {
+            text-align: center;
+            padding-top: 90px;
+        }
+        .text-center a {
+            text-decoration: none;
+            text-align: center;
+        }
+        .how-mobile {
+            padding-top: 20px;
+            display: flex;
+            flex-direction: column-reverse;
+        }
+        .call-action-2-text dd {
+            text-align: justify;
+        }
+        .alt-features-descr {
+            text-align: justify;
+        }
+        .img-fluid {
+            width: 60%;
+        }
+        .text-end {
+            display: flex;
+            justify-content: center;
+        }
+        .mt-0 {
+            text-align: center;
+            font-size: 24px !important;
+        }
+        .light-content .section-title-descr {
+            text-align: center !important;
+        }
+        .game-modes {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center !important;
+        }
+        a.btn.btn-mod.btn-large.btn-round.me-md-1.btn-mod-1.headbut.vg {
+            line-height: 36px !important;
+            text-align: center;
+        }
+    }
+    /* for 767 start */
+    /* @media only screen and (max-width: 576px) {
+    .btn-mod-1 {
+        display: flex;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+} */
+    
+    @media only screen and (max-width: 479px) {
+        .page-section {
+            padding: 20px 0px !important;
+        }
+        .btn-mod-1 {
+            display: flex;
+            justify-content: center;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        .item-description {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .pb-20 {
+            padding-bottom: 10px!important;
+        }
+        .section-title {
+            padding: 10px;
+            font-size: 18px !important;
+            text-align: center;
+        }
+        .section-title-descr {
+            text-align: justify !important;
+            font-size: 16px;
+        }
+        .ci-title {
+            margin-top: 10px;
+            font-size: 18px !important;
+        }
+        .ci-text {
+            font-size: 14px;
+        }
+        .count-number {
+            font-size: 24px;
+        }
+        .gaming {
+            padding: 10px 0px;
+        }
+        .banner-heading {
+            font-size: 20px;
+        }
+        .banner-decription {
+            text-align: justify !important;
+            font-size: 16px;
+            margin-bottom: 0px;
+        }
+        .work-process-title {
+            font-size: 18px;
+        }
+        .work-process-heading {
+            text-align: center;
+            font-size: 24px;
+        }
+        .work-process-description {
+            text-align: justify;
+            font-size: 16px;
+        }
+        .work-process-icon {
+            width: 150px;
+            height: 150px;
+        }
+        .rul {
+            text-align: justify;
+        }
+        .rul h3,
+        .rules h3 {
+            font-size: 24px !important;
+        }
+        .newletter-label-text {
+            font-size: 20px;
+            text-align: center;
+        }
+        .mt-0 {
+            text-align: center;
+            font-size: 20px !important;
+        }
+        .accordion>dt {
+            font-size: 18px;
+        }
+        .accordion>dt>a {
+            padding: 15px 25px 15px 0;
+        }
+        .btn-mod.btn-medium,
+        .btn-mod.btn-large {
+            padding: 7px;
+        }
+        blockquote p {
+            font-size: 16px;
+            text-align: justify;
+        }
+        .varbg {
+            padding-top: 15px !important;
+        }
+        .mt-sm-20 {
+            margin-top: 16px;
+            margin-bottom: 25px;
+        }
+        .alt-features-descr {
+            text-align: justify;
+        }
+        /* other pages */
+        /* .terms {
+                                padding: 10px 0px !important;
+                            } */
+        .bread-title h2 {
+            text-align: center;
+            font-size: 24px;
+        }
+        .mod-breadcrumbs:not(.align-center):not(.mod-breadcrumbs-mini) {
+            text-align: center !important;
+        }
+        .text-center a {
+            text-align: center !important;
+        }
+        .single-content-head {
+            font-size: 20px;
+            text-align: center;
+        }
+        .single-content h4 {
+            font-size: 20px;
+        }
+        .single-content p {
+            font-size: 16px;
+        }
+        .single-content li {
+            font-size: 14px;
+            text-align: justify;
+        }
+        .call-action-1-heading {
+            font-size: 20px;
+        }
+        .tab-pane {
+            font-size: 16px;
+            text-align: justify;
+        }
+        .resume-section .resume-item.resume-item-box-one {
+            background-image: url(../images/mobile/mobile-1/rummyvar1.png);
+            /* background-image: url(../images/mobile/mobile-1/rummyvar1.png) !important; */
+        }
+        .resume-section .resume-item.resume-item-box-two {
+            background-image: url(../images/mobile/mobile-1/Support1.png) !important;
+        }
+        .resume-section .resume-item.resume-item-box-three {
+            background-image: url(../images/mobile/mobile-1/Safe1.png) !important;
+        }
+        .resume-section .resume-item.resume-item-box-four {
+            background-image: url(../images/mobile/mobile-1/Secure.png) !important;
+        }
+        .resume-section .resume-item.resume-item-box-five {
+            background-image: url(../images/mobile/mobile-1/Fair1.png) !important;
+        }
+        .resume-section .resume-item.resume-item-box-six {
+            background-image: url(../images/mobile/mobile-1/Quick1.png) !important;
+        }
+        .img-fluid {
+            width: 50%;
+        }
+    }
+    /*  @media only screen and (min-width: 360px) {}
+                    @media only screen and (min-width: 320px) {}
+                    @media only screen and (min-width: 280px) {}
+                                          
+                        @media (max-width: 990px) {
+                            .resume-section .resume-item.resume-item-box-one {
+                                background-image: url(../images/mobile/mobile-1/rummyvar1.png) !important;
+                                background-size: 100% 100% !important;
+                                background-image: url(../images/mobile/mobile-1/rummyvar1.png) !important;
+                            }
+                            .resume-section .resume-item.resume-item-box-two {
+                                background-image: url(../images/mobile/mobile-1/Support1.png) !important;
+                                background-size: 100% 100%;
+                            }
+                            .resume-section .resume-item.resume-item-box-three {
+                                background-image: url(../images/mobile/mobile-1/Safe1.png) !important;
+                                background-size: 100% 100%;
+                            }
+                            .resume-section .resume-item.resume-item-box-four {
+                                background-image: url(../images/mobile/mobile-1/Secure.png) !important;
+                                background-size: 100% 100%;
+                            }
+                            .resume-section .resume-item.resume-item-box-five {
+                                background-image: url(../images/mobile/mobile-1/Fair1.png) !important;
+                                background-size: 100% 100%;
+                            }
+                            .resume-section .resume-item.resume-item-box-six {
+                                background-image: url(../images/mobile/mobile-1/Quick1.png) !important;
+                                background-size: 100% 100%;
+                            }
+}
+*/
